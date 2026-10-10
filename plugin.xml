@@ -4,7 +4,7 @@
   This file is part of the DITA Bootstrap Lunr Search plug-in for DITA Open Toolkit.
   See the accompanying LICENSE file for applicable licenses.
 -->
-<plugin id="org.dita-bootstrap.lunr" version="5.3.6">
+<plugin id="org.dita-bootstrap.lunr" version="5.3.9">
   <require plugin="org.dita-bootstrap.html"/>
   <feature extension="ant.import" file="process_lunr.xml"/>
   <!-- Ensure the plugin's error and logging messages are available -->
